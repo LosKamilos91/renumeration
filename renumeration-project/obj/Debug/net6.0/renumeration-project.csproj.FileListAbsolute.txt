@@ -1,0 +1,38 @@
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.exe
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.deps.json
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.runtimeconfig.json
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.pdb
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.AssemblyReference.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.AssemblyInfoInputs.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.AssemblyInfo.cs
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.CoreCompileInputs.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\refint\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.pdb
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.genruntimeconfig.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\ref\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.exe
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.deps.json
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.runtimeconfig.json
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\renumeration-project.pdb
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.core.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.AssemblyReference.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.AssemblyInfoInputs.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.AssemblyInfo.cs
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.CoreCompileInputs.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.CopyComplete
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\refint\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.pdb
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.genruntimeconfig.cache
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project — kopia (2)\renumeration-project\renumeration-project\obj\Debug\net6.0\ref\renumeration-project.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\bin\Debug\net6.0\xunit.core.dll
+C:\Users\k91or\OneDrive\Pulpit\renumeration-project\renumeration-project\renumeration-project\obj\Debug\net6.0\renumeration-project.csproj.CopyComplete
